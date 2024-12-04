@@ -49,9 +49,9 @@ Once you have everything set up, follow these steps to run the application:
    
 2. **Run the Python Application**:
    In your terminal, navigate to the directory where `main.py` is located, and execute the following command:
-   '''
+   ```
    streamlit run main.py
-   '''
+   ```
    There you will be able to add, delete, modify and view: Student, Faculty, Enrollments tables.
 
 ## Bugs:
