@@ -5,7 +5,7 @@ import pandas as pd
 
 # database config
 db_config = {
-    'host': 'localhost',      
+    'host': 'xxxxxx',      
     'user': 'xxxxxxx',     
     'password': 'xxxxxxxx', 
     'database': 'MiddleSchoolDB' 
