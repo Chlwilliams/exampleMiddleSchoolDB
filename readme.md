@@ -56,7 +56,8 @@ Once you have everything set up, follow these steps to run the application:
 
 ## Bugs:
 
-Currently viewing does not work properly. 
+1. Currently viewing does not work properly.
+2. Columns are displaying a extra index
 
 ## Contributing
 
