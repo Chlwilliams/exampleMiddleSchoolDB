@@ -19,7 +19,7 @@ This project is a simple database system designed for managing information relat
 
 To run this project, you'll need the following software and tools installed:
 
-- **MySQL Workbench**: A visual tool for database design, querying, and management. [Download MySQL Workbench](https://dev.mysql.com/downloads/installer/)
+- **MySQL Workbench**: A visual tool for database design, querying, and management. [Download MySQL Workbench](https://dev.mysql.com/downloads/file/?id=536355)
 - **Python**: A programming language for running the backend logic of the application.
 - **Python Libraries**: The necessary Python libraries are listed in `requirements.txt` and can be installed via pip.
 - **Streamlit**: The GUI framework used to create the web-based interface.
